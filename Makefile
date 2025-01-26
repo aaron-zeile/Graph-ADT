@@ -1,11 +1,7 @@
 # Makefile
 # Aaron Zeile
-# ID: azeile
-# pa2
 
 #------------------------------------------------------------------------------
-#  Makefile for CMPS 101 Programming Assignment 
-#
 #  make                     makes FindPath
 #  make GraphTest           makes GraphTest
 #  make clean               removes binaries
