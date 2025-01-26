@@ -1,7 +1,5 @@
 /*** FindPath.c ***/
 /*** Aaron Zeile ***/
-/*** ID: azeile ***/
-/*** pa2 ***/
 
 #include <stdio.h>
 #include <stdlib.h>
