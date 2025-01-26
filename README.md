@@ -11,7 +11,5 @@ Contains prototypes for Graph ADT functions
 Contains bodies of Graph ADT functions
 # FindPath.c
 Reads from an input file, comprehends it using the Graph ADT and sends it (formatted) to an output file
-# GraphTest.c
-Contains many lines of code used to test the Graph functions while coding
 # Makefile
 Used to quickly compile and test code
